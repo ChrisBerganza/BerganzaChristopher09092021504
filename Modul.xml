@@ -1,0 +1,8 @@
+<? xml versión = " 1.0 " codificación = " UTF-8 " ?>
+< versión del proyecto  = " 4 " >
+  < nombre de componente  = " ProjectModuleManager " >
+    < módulos >
+      < Módulo  fileurl = " file: //$PROJECT_DIR$/Chris09092021504.iml "  ruta de archivo = "$ project_dir $ / Chris09092021504.iml " />
+    </ módulos >
+  </ componente >
+</ proyecto >
