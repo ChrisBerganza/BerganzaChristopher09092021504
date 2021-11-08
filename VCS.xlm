@@ -1,0 +1,6 @@
+<? xml versión = " 1.0 " codificación = " UTF-8 " ?>
+< versión del proyecto  = " 4 " >
+  < nombre de componente  = " VcsDirectoryMappings " >
+    < directorio de mapeo  = " $ PROJECT_DIR $ " vcs = " Git " /> 
+  </ componente >
+</ proyecto >
