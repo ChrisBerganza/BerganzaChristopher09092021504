@@ -1,0 +1,11 @@
+<? xml versión = " 1.0 " codificación = " UTF-8 " ?>
+< versión del proyecto  = " 4 " >
+  < nombre del componente  = " PHPUnit " >
+    < option  name = " directorios " >
+      < lista >
+        < option  value = " $ PROJECT_DIR $ / tests / Unit " />
+        < option  value = " $ PROJECT_DIR $ / tests / Feature " />
+      </ lista >
+    </ opción >
+  </ componente >
+</ proyecto >
